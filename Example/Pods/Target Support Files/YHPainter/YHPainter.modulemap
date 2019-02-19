@@ -1,0 +1,6 @@
+framework module YHPainter {
+  umbrella header "YHPainter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YHPainter (0.1.0)
+
+DEPENDENCIES:
+  - YHPainter (from `../`)
+
+EXTERNAL SOURCES:
+  YHPainter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHPainter: 006c81d8a3d69afe5d2ea20bb1673a35ec98e2e1
+
+PODFILE CHECKSUM: 7f140ef915428ba658bdf8c18dc8f46bee813e74
+
+COCOAPODS: 1.5.3

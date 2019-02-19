@@ -1,0 +1,22 @@
+{
+  "name": "YHPainter",
+  "version": "0.1.0",
+  "summary": "A short description of YHPainter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yinhaofrancis/YHPainter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yinhaofrancis": "1833918721@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yinhaofrancis/YHPainter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHPainter/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_YHPainter_Tests {
+  umbrella header "Pods-YHPainter_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
